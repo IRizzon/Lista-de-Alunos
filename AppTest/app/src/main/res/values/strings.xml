@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppTest</string>
+    <string name="txt_hint_edit_Nome">Nome</string>
+    <string name="txt_hint_edit_Sobrenome">Sobrenome</string>
+    <string name="txt_hint_edit_Matrícula">Matrícula</string>
+    <string name="txt_hint_edit_CPF">CPF</string>
+</resources>
