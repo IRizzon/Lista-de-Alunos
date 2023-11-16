@@ -4,4 +4,5 @@
     <string name="txt_hint_edit_Sobrenome">Sobrenome</string>
     <string name="txt_hint_edit_Matrícula">Matrícula</string>
     <string name="txt_hint_edit_CPF">CPF</string>
+    <string name="txt_selecione_um_curso">Selecione um curso</string>
 </resources>
